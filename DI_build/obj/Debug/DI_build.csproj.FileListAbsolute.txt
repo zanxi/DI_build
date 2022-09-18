@@ -1,0 +1,8 @@
+C:\_2022___\_Rabota__HH__Source__My\DI_build\DI_build\obj\Debug\DI_build.csproj.AssemblyReference.cache
+C:\_2022___\_Rabota__HH__Source__My\DI_build\DI_build\obj\Debug\DI_build.csproj.SuggestedBindingRedirects.cache
+C:\_2022___\_Rabota__HH__Source__My\DI_build\DI_build\obj\Debug\DI_build.csproj.CoreCompileInputs.cache
+C:\_2022___\_Rabota__HH__Source__My\DI_build\DI_build\bin\Debug\DI_build.exe.config
+C:\_2022___\_Rabota__HH__Source__My\DI_build\DI_build\bin\Debug\DI_build.exe
+C:\_2022___\_Rabota__HH__Source__My\DI_build\DI_build\bin\Debug\DI_build.pdb
+C:\_2022___\_Rabota__HH__Source__My\DI_build\DI_build\obj\Debug\DI_build.exe
+C:\_2022___\_Rabota__HH__Source__My\DI_build\DI_build\obj\Debug\DI_build.pdb

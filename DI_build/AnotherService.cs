@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DI_build
+{
+    public class AnotherService
+    {
+        private AnotherService() { }
+
+        public static AnotherService instance = new AnotherService();
+    }
+}
